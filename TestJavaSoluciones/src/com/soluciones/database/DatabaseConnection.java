@@ -10,4 +10,6 @@ package com.soluciones.database;
  */
 public class DatabaseConnection {
     
+    private url url
+    
 }
